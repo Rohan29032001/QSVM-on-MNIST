@@ -1,5 +1,5 @@
 # QSVM-on-MNIST
-We implement QSVM using Qiskit to classify images of handwritten digits of 4 vs 9.
+We implement Quantum Support Vector Machines using Qiskit to classify images of handwritten digits of 4 vs 9.
 
 We choose 4 and 9 since they look quite similar. So a good model must perform well in classifying these rightly.
 This repository contains the following notebooks:
